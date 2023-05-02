@@ -15,7 +15,15 @@ To run out the game! You might follow the instructions at the terminal:
 ```sh
 1. pip install requirements.txt
 ```
-
+### Scrapy Requirements
+from created main folder, on console type
+```sh
+1. scrapy startproject "desired name" -> tutorial
+2. cd tutorial
+3. this set a new folder with (2) subfiles; on tutorial file, get in spider
+from there create a file to store within.
+4. define a Class executing the logic need it to perform the scraping.
+```
 
 # App Project
 
